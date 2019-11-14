@@ -3,5 +3,10 @@ This document describes general coding standards for code written in dart and fl
 for language specific coding standard documents.
 
 For each project, this document will be used in conjuction with language and project specific coding standards that, in total 
-define a complete set of coding standards. A description of the **general**, **language specific**, and **project specific** 
+define a complete set of coding standards. A description of the **[general]**, **[language specific]**, and **[project specific]** 
 coding standards is provided.
+
+<!--links-->
+[general]: Introduction/Coding-Standard-Documents.md#general-coding-standard
+[language specific]: Introduction/Coding-Standard-Documents.md#language-specific-coding-standards
+[project specific]: Introduction/Coding-Standard-Documents.md#project-coding-standards
