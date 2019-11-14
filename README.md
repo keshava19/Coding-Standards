@@ -5,5 +5,7 @@ General style and coding standards for Flutter Projects
 
 ## Table Of Contents
 1. INTRODUCTION  
- 1.1 Purpose
+ 1.1 [Purpose]
  
+<!--links-->
+[Purpose]: Introduction/Purpose.md
