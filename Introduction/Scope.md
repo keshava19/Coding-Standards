@@ -7,6 +7,6 @@ define a complete set of coding standards. A description of the **[general]**, *
 coding standards is provided.
 
 <!--links-->
-[general]: Introduction/Coding-Standard-Documents.md#general-coding-standard
-[language specific]: Introduction/Coding-Standard-Documents.md#language-specific-coding-standards
-[project specific]: Introduction/Coding-Standard-Documents.md#project-coding-standards
+[general]: https://github.com/keshava19/Coding-Standards/blob/master/Introduction/Coding-Standard-Documents.md#general-coding-standard
+[language specific]: https://github.com/keshava19/Coding-Standards/blob/master/Introduction/Coding-Standard-Documents.md#language-specific-coding-standards
+[project specific]: https://github.com/keshava19/Coding-Standards/blob/master/Introduction/Coding-Standard-Documents.md#project-coding-standards
