@@ -9,6 +9,7 @@ General style and coding standards for Flutter Projects
  1.2 [Scope]  
  1.3 [Coding Standard Documents]  
  1.4 [Terms Used In This Document]  
+ 1.5 Our Limited Lifetime Warranty
  
 <!--links-->
 [Purpose]: Introduction/Purpose.md
