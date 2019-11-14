@@ -7,7 +7,8 @@ General style and coding standards for Flutter Projects
 1. INTRODUCTION  
  1.1 [Purpose]  
  1.2 [Scope]  
- 1.3 [Coding Standard Documents]
+ 1.3 [Coding Standard Documents]  
+ 1.4 Terms Used In This Document
  
 <!--links-->
 [Purpose]: Introduction/Purpose.md
