@@ -12,6 +12,7 @@ General style and coding standards for Flutter Projects
  1.5 [Our Limited Lifetime Warranty]  
  1.6 [The Emotional Topic of Coding Standards]  
  1.7 [References]  
+2. [PROJECT DEPENDENT STANDARDS]  
  
 <!--links-->
 [Purpose]: Introduction/Purpose.md
@@ -21,3 +22,4 @@ General style and coding standards for Flutter Projects
 [Our Limited Lifetime Warranty]: Introduction/Our-Limited-Lifetime-Warranty.md
 [The Emotional Topic of Coding Standards]: Introduction/The-Emotional-Topic-Of-Coding-Standards.md
 [References]: Introduction/References.md
+[PROJECT DEPENDENT STANDARDS]: 404NotFound.md
