@@ -22,4 +22,4 @@ General style and coding standards for Flutter Projects
 [Our Limited Lifetime Warranty]: Introduction/Our-Limited-Lifetime-Warranty.md
 [The Emotional Topic of Coding Standards]: Introduction/The-Emotional-Topic-Of-Coding-Standards.md
 [References]: Introduction/References.md
-[PROJECT DEPENDENT STANDARDS]: 404NotFound.md
+[PROJECT DEPENDENT STANDARDS]: Project-Dependent-Standards.md
